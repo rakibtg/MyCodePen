@@ -29,6 +29,7 @@
   <div class="editor" id="csseditor"></div>
 </div>
     
+<script src="https://cdn.jsdelivr.net/jquery/3.1.1/jquery.min.js"></script>
 <script src="https://cdn.jsdelivr.net/ace/1.2.6/noconflict/ace.js" type="text/javascript" charset="utf-8"></script>
 <script src="https://cloud9ide.github.io/emmet-core/emmet.js"></script>
 <script src="https://cdn.jsdelivr.net/ace/1.2.6/noconflict/ext-emmet.js"></script>
